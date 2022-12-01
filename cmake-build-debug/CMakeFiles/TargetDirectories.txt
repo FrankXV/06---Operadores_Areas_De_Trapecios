@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Areas_De_Trapecios/cmake-build-debug/CMakeFiles/Operadores_Areas_De_Trapecios.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Areas_De_Trapecios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Areas_De_Trapecios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
